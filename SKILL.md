@@ -4,7 +4,7 @@ description: Continue effective leadership despite personal setbacks, disability
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4369
+  version: 1.0.4370
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
