@@ -3,8 +3,9 @@ name: leading-through-adversity
 description: Continue effective leadership despite personal setbacks, disability, or wounds. Transform adversity from excuse into credential.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4369
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - leading-through-adversity
